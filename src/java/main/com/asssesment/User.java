@@ -1,3 +1,5 @@
+package com.assesment;
+
 public class User{
   
   private double billAmount;
