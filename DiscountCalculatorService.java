@@ -1,4 +1,4 @@
-
+@Service
 public class DiscountCalculatorService {
 public double calculateNetPayableAmount(User user) {
         double totalDiscount = 0.0;
