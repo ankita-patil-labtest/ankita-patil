@@ -1,4 +1,5 @@
 package com.assesment;
+import org.springframework.boot.SpringApplication;
 
 @SpringBootApplication
 public class TestApplication{
