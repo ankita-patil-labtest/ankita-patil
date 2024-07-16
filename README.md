@@ -2,7 +2,7 @@
 mvn clean install
 
 #run the application
-java -jar target/<your-application-name>.jar
+java -jar target/test-0.0.1-SNAPSHOT.jar
 
 run junit test
 mvn test
