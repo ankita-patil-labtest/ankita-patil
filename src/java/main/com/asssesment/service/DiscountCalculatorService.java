@@ -1,4 +1,4 @@
-package com.assesment.service;
+package com.asssesment.service;
 
 @Service
 public class DiscountCalculatorService {
