@@ -27,6 +27,7 @@ The project is structured as follows:
 * DiscountCalculatorService: Handles various discount calculation rules based on user type and bill conditions.
 * User: Represents the user with attributes like user type and tenure.
 * Order: Represents the order details.
+* OrderNotFountException: Represents the Custom exception to handle failure scenario.
 
 # Dependencies
 * Java 17
